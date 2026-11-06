@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Hi%2C+I+am+Aastha+%F0%9F%91%8B;Computer+Engineering+Diploma+Student;Building+with+C%2C+C%2B%2B%2C+Java%2C+Python+%26+Arduino;Learning+DSA+and+automation+in+public)](https://github.com/Aastha-0777)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:36BCF7&height=190&section=header&text=Aastha%20Lakhatariya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20loudly.%20Building%20in%20public.&descSize=18&descAlignY=60" alt="Aastha Lakhatariya" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Hi%2C+I+am+Aastha+%F0%9F%91%8B;Computer+Engineering+Diploma+Student;Building+with+C%2C+C%2B%2B%2C+Java%2C+Python+%26+Arduino;If+it+does+not+click%2C+I+build+it;Learning+DSA+and+automation+in+public)](https://github.com/Aastha-0777)
 
 <img src="https://komarev.com/ghpvc/?username=Aastha-0777&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -13,108 +15,86 @@
 
 ---
 
-## 💫 About me
+## 👋 Hey, I'm Aastha
+
+I'm a Computer Engineering diploma student who learns by building. When a textbook chapter doesn't click, I wire the circuit. When my own code looks fine, I try to break it on purpose. This page is the honest version of that journey: the builds, the bugs, and what each one taught me.
+
+## 🎯 Right now
 
 | | |
 |---|---|
-| 🔭 **Working on** | Arduino builds (12 so far), LeetCode in C and Java, and a C project with file handling |
-| 🌱 **Learning** | Data Structures & Algorithms, embedded systems, workflow automation (Make.com and n8n), finance fundamentals |
+| 🔨 **Building** | Arduino projects (13 and counting). Next up: a C project with file handling |
+| 🧠 **Learning** | DSA on LeetCode, embedded systems, workflow automation, and finance basics |
 | 🏅 **Certified** | Oracle Certified Professional: Java SE 21 Developer |
-| 👯 **Happy to collaborate on** | Beginner-friendly projects around automation, embedded/IoT, and fintech |
-| 🤝 **Looking for** | Internship opportunities where I can build and keep learning |
+| 🤝 **Open to** | Software and automation internships, and beginner-friendly collaborations |
 | 💬 **Ask me about** | C / C++, Java, Arduino, DSA, and learning to code as a diploma student |
-| ⚡ **Fun fact** | My GitHub commits post themselves to LinkedIn, through a Make.com pipeline I built |
+
+## 🧰 What I work with
+
+<p>
+  <img src="https://img.shields.io/badge/C-1F6FEB?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-1F6FEB?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-1F6FEB?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Arduino-1F6FEB?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Make.com-1F6FEB?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" />
+  <img src="https://img.shields.io/badge/n8n-1F6FEB?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Git-1F6FEB?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-## 🧰 Tech stack
+## 🚀 Things I'm proud of
 
-**Languages**<br>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+| | |
+|---|---|
+| 🔌 [**Arduino Projects**](https://github.com/Aastha-0777/Arduino-Projects) | 13 hardware builds, from an LED blink to a secret-knock door lock, a fire alarm, and a Simon Says game played with an IR remote |
+| 🤖 [**GitHub → LinkedIn AutoPoster**](https://github.com/Aastha-0777/GitHub-to-LinkedIn-AutoPoster) | My commits write and publish their own LinkedIn posts. Built on Make.com with duplicate checks and error logging |
+| 🏦 [**C++ Projects**](https://github.com/Aastha-0777/Cpp-Programming-Practice) | A menu-driven banking system and a movie ticket booking app, plus OOP practice |
+| 🗂️ [**Employee Management System**](https://github.com/Aastha-0777/C-Projects) | A C console app that I tested with bad input until it stopped crashing |
 
-**Hardware & automation**<br>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+Plus LeetCode solutions in C and Java, and Python, Java, and C practice. [Browse all repositories →](https://github.com/Aastha-0777?tab=repositories)
 
-**Tools**<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+### 🎮 Latest build: IR Simon Says
 
----
-
-## 🚀 Featured projects
-
-| Project | What it is | Built with |
-|---|---|---|
-| [**Arduino Projects**](https://github.com/Aastha-0777/Arduino-Projects) | 12 hardware builds, from an LED blink to a weather station, a fire alarm, and a secret knock door lock | Arduino UNO R4 Minima, sensors, I2C LCD |
-| [**GitHub → LinkedIn AutoPoster**](https://github.com/Aastha-0777/GitHub-to-LinkedIn-AutoPoster) | An automation that turns my GitHub commits into LinkedIn posts, with duplicate checks and error logging | Make.com, webhooks, Google Sheets, AI |
-| [**C++ Practice**](https://github.com/Aastha-0777/Cpp-Programming-Practice) | OOP practice plus mini-projects: a banking system and a movie ticket booking app | C++, OOP |
-| [**C Projects**](https://github.com/Aastha-0777/C-Projects) | An Employee Management System with validation, sorting, and analytics | C, structs, bubble sort |
-| [**DSA Solutions**](https://github.com/Aastha-0777/DSA-Solutions) | LeetCode problems in C and Java, synced automatically | C, Java, DSA |
-| [**Python**](https://github.com/Aastha-0777/PYTHON) | Topic-by-topic practice, plus a text-based zombie survival game | Python |
-| [**Java**](https://github.com/Aastha-0777/JAVA) | Java practice from my training and Java SE 21 preparation | Java |
-| [**C Programming Practice**](https://github.com/Aastha-0777/C-Programming-Practice) | 50+ programs covering arrays, file handling, structures, and recursion | C |
-
-### 🔐 Latest build: Secret Knock Door Lock
-
-An Arduino lock that opens only when you knock the right pattern. A piezo sensor listens, the Arduino compares the knocks to the saved pattern, and the LCD shows **LOCKED** until it matches.
+A memory game played with an IR remote. The LCD shows the sequence, you repeat it, and every correct round adds a step. It works with any remote, because I built a small reader sketch to find the button codes first.
 [See it in Arduino Projects →](https://github.com/Aastha-0777/Arduino-Projects)
 
 ---
 
-## 🏅 Certifications
+## 📝 What building taught me
 
 <details>
-<summary><b>Click to expand</b></summary>
+<summary><b>Click to open</b></summary>
 
 <br>
 
-- **Oracle Certified Professional: Java SE 21 Developer**, Oracle, 2026 ([verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=42729D2490855404E733014216FD1A0FC373B01B66CE3D42045B85CA2DC95D42))
-- **Yuva AI for All**, IndiaAI Mission (MeitY) with NASSCOM FutureSkills Prime, 2026
-- **Workshop on Automation using n8n**, Royal Technosoft, 2026
-- **Basic Robotics (Arduino & sensors)**, Royal Technosoft, 2025
-- **CSS**, Royal Technosoft, 2025
-- **A2Z of Finance: Finance Beginner Course**, Elearnmarkets, 2025
+- **Binary counter:** Reading about binary counting in a textbook didn't click. Building it with LEDs did.
+- **Employee Management System:** Testing with bad input found bugs that normal use never showed: a crash, a missing capacity check, and an endless loop.
+- **Secret knock lock:** Nobody knocks the same way twice, so the code has to decide how close counts as the same.
+- **IR Simon Says:** Every remote sends different codes. So I built a reader first, and now the game works with any remote.
 
 </details>
 
-## 🔌 Arduino builds so far
+## 🏅 Certifications
 
 <details>
-<summary><b>Click to expand</b></summary>
+<summary><b>Click to open</b></summary>
 
 <br>
 
-| # | Build |
-|---|---|
-| 01 | LED Blink |
-| 02 | Binary Counter |
-| 03 | Push Button LED |
-| 04 | AND Gate Simulation |
-| 05 | Half Adder |
-| 06 | Automatic Night Light (LDR) |
-| 07 | Color Adder (RGB) |
-| 08 | Push Button Counter on LCD |
-| 09 | Ultrasonic Distance Meter |
-| 10 | Digital Weather Station |
-| 11 | Fire Alarm System |
-| 12 | Secret Knock Door Lock |
-
-All in [Arduino-Projects](https://github.com/Aastha-0777/Arduino-Projects).
+- **Oracle Certified Professional: Java SE 21 Developer**, Oracle ([verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=42729D2490855404E733014216FD1A0FC373B01B66CE3D42045B85CA2DC95D42))
+- **Yuva AI for All**, IndiaAI Mission (MeitY) with NASSCOM FutureSkills Prime
+- **Royal Technosoft:** n8n Automation Workshop, Basic Robotics, CSS
+- **A2Z of Finance: Finance Beginner Course**, Elearnmarkets
 
 </details>
 
 ---
 
-## 📊 GitHub stats
+## 📊 My GitHub, live
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=Aastha-0777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
@@ -125,13 +105,18 @@ All in [Arduino-Projects](https://github.com/Aastha-0777/Arduino-Projects).
   <img src="https://streak-stats.demolab.com/?user=Aastha-0777&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
-### ✍️ Random dev quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random dev quote" />
-</p>
-
 ---
+
+<details>
+<summary>🔒 <b>Locked.</b> Knock to enter...</summary>
+
+<br>
+
+**✅ Access granted.** You knocked the right pattern.
+
+Here's the secret: my first project was an LED blink, and I still feel the same thing every time a build finally works. I also built a lock that opens to a secret knock, so this section is the profile version of it. 😄
+
+</details>
 
 <div align="center">
 
@@ -141,6 +126,8 @@ Building something interesting or learning something new? I'd love to hear about
 
 [![LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aastha-lakhatariya-3138a9391)
 
-*Learning in public, one build at a time.*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random dev quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A66C2&height=110&section=footer" alt="" />
 
 </div>
